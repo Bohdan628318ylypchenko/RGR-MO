@@ -1,5 +1,4 @@
 using Optimization1D;
-using System.Diagnostics;
 
 namespace Tests
 {
